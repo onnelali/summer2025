@@ -1,2 +1,5 @@
 # summer2025
-Summer internship
+
+Hello!
+
+This is the project for the summer internship.
